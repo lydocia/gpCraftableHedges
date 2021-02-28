@@ -1,0 +1,8 @@
+{
+    "id" : "hedgespiral",
+    "craftedFrom" : "plantfiber : 50",
+    "craftingMachine" : "workbench_flower",
+    "craftingCommand" : "Craft",
+    "craftingRequires" : "",
+    "base" : false
+}

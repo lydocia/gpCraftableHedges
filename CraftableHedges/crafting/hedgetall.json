@@ -1,0 +1,8 @@
+{
+    "id" : "hedgetall",
+    "craftedFrom" : "plantfiber : 50, plantfiber : 50",
+    "craftingMachine" : "workbench_flower",
+    "craftingCommand" : "Craft",
+    "craftingRequires" : "",
+    "base" : false
+}
